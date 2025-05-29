@@ -10,10 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-hiroshi960617/hiroshi960617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ## Achievements
 
 ![Starstruck](https://your-host.com/path-to-starstruck-badge.png)  
@@ -27,3 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Pull Shark](https://your-host.com/path-to-pull-shark-badge.png)  
 *Made 200 pull requests*
+<!---
+hiroshi960617/hiroshi960617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
