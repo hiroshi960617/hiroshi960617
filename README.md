@@ -19,7 +19,7 @@
 ![Pair Extraordinaire](https://hiroshi960617.com/path-to-pair-extraordinaire-badge.png)  
 *Collaborated in pair programming sessions*
 
-![Quickdraw](https://hiroshi960617/path-to-quickdraw-badge.png)  
+![Quickdraw](https://github.com/kinbo1111/kinbo1111/path-to-quickdraw-badge.png)  
 *Merged 100 pull requests*
 
 ![Pull Shark](https://hiroshi960617/path-to-pull-shark-badge.png)  
