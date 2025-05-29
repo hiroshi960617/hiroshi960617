@@ -14,3 +14,16 @@
 hiroshi960617/hiroshi960617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Achievements
+
+![Starstruck](https://your-host.com/path-to-starstruck-badge.png)  
+*Starred 50 repositories*
+
+![Pair Extraordinaire](https://your-host.com/path-to-pair-extraordinaire-badge.png)  
+*Collaborated in pair programming sessions*
+
+![Quickdraw](https://your-host.com/path-to-quickdraw-badge.png)  
+*Merged 100 pull requests*
+
+![Pull Shark](https://your-host.com/path-to-pull-shark-badge.png)  
+*Made 200 pull requests*
