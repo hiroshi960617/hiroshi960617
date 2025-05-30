@@ -9,6 +9,7 @@
 </p>
 </div>
 <br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -19,7 +20,7 @@
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
 </p>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="left">
  
  🧑🏻‍💻 I am a **Tech Enthusiast**
