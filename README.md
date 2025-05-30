@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
  
  🧑🏻‍💻 I am a **Tech Enthusiast**
  
