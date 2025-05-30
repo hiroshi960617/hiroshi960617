@@ -25,4 +25,4 @@
  🌱 I’m currently learning **C++**.
  ⚡ I am also interested in **UI/UX**, **Machine Learning**, **AI**, **Cloud Computing** and in **Augmented Reality** .
  </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr/>
