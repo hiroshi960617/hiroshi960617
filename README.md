@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UtkarshSatav.UtkarshSatav"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello!+Welcome+to+my+itHub!+      +👋;+I'm+Hiroshi!;" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello!+Welcome+to+my+itHub!+&duration=1000&+👋;+I'm+Hiroshi!;" /></h1>
 
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" alt="Coding GIF">
