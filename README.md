@@ -20,10 +20,10 @@
   </a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <hr/>
-<div align="left">
- 🧑🏻‍💻 I am a **Tech Enthusiast**
- 🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
- 🌱 I’m currently learning **C++**.
+<div align="center">
+ 🧑🏻‍💻 I am a **Tech Enthusiast**<br/>
+ 🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions<br/>
+ 🌱 I’m currently learning **C++**.<br/>
  ⚡ I am also interested in **UI/UX**, **Machine Learning**, **AI**, **Cloud Computing** and in **Augmented Reality** .
  </div>
 <hr/>
