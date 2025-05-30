@@ -2,7 +2,7 @@
 <hr/>
 <body background-color="black">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello!+Welcome+to+my+itHub!+👋;+I'm+Hiroshi!;" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello!+Welcome+to+my+GitHub!+👋;+I'm+Hiroshi!;" /></h1>
 </p>
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp5NTE4eTRnZXhlMHd3Y2Zydzh4MWJjcjYzbWM0aHVhZmZ6cXU5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif" alt="Coding GIF">
