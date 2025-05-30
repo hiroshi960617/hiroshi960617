@@ -1,4 +1,4 @@
-# Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hiroshi960617/awesome#readme)
+###README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hiroshi960617/awesome#readme)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello!+Welcome+to+my+itHub!+👋;+I'm+Hiroshi!;" /></h1>
 </p>
@@ -17,8 +17,8 @@
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+##My Skills
 <div align="left">
- 
  🧑🏻‍💻 I am a **Tech Enthusiast**
  
  🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
