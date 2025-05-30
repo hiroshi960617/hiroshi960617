@@ -1,15 +1,14 @@
 # Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hiroshi960617/awesome#readme)
-> A curated list of awesome READMEs
-> <img src="icon.png" align="right"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UtkarshSatav.UtkarshSatav"/>
 
-- 👋 Hi, I’m @hiroshi960617
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hola+Dev's!+👋;+I'm+Utkarsh+Satav!;" /></h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" alt="Coding GIF">
+</p>
+</div>
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
