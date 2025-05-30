@@ -20,7 +20,7 @@
   </a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <hr/>
-<div align="left" left="50px>
+<div align="left" left="50px">
  🧑🏻‍💻 I am a **Tech Enthusiast**<br/>
  🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions<br/>
  🌱 I’m currently learning **C++**.<br/>
