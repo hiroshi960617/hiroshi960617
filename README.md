@@ -1,5 +1,6 @@
 ### README
 <hr/>
+<body background-color="black">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello!+Welcome+to+my+itHub!+👋;+I'm+Hiroshi!;" /></h1>
 </p>
@@ -26,3 +27,4 @@
  ⚡ I am also interested in **UI/UX**, **Machine Learning**, **AI**, **Cloud Computing** and in **Augmented Reality** .
  </div>
 <hr/>
+</body>
