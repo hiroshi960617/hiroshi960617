@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello!+Welcome+to+my+itHub!+👋;+I'm+Hiroshi!;" /></h1>
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" alt="Coding GIF">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif width="500" " alt="Coding GIF">
 </p>
 </div>
 <br/>
