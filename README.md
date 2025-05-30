@@ -18,7 +18,6 @@
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-## README
 <hr/>
 <div align="left">
  🧑🏻‍💻 I am a **Tech Enthusiast**
