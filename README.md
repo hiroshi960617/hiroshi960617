@@ -28,3 +28,15 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo"  />
 </div>
+<div align="center">
+ 
+ 🧑🏻‍💻 I am a **Tech Enthusiast**
+ 
+ 🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
+
+🌱 I’m currently learning **C++**.
+
+⚡ I am also interested in **UI/UX**, **Machine Learning**, **AI**, **Cloud Computing** and in **Augmented Reality** .
+
+ </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
