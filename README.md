@@ -21,20 +21,10 @@
 
 </p>
 
-## Achievements
-
-![Starstruck](https://hiroshi960617.com/path-to-starstruck-badge.png)  
-*Starred 50 repositories*
-
-![Pair Extraordinaire](https://hiroshi960617.com/path-to-pair-extraordinaire-badge.png)  
-*Collaborated in pair programming sessions*
-
-![Quickdraw](https://github.com/kinbo1111/kinbo1111/path-to-quickdraw-badge.png)  
-*Merged 100 pull requests*
-
-![Pull Shark](https://hiroshi960617/path-to-pull-shark-badge.png)  
-*Made 200 pull requests*
-<!---
-hiroshi960617/hiroshi960617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo"  />
+</div>
